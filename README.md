@@ -1,5 +1,7 @@
 # front-relatorio
+Aplicação Front-end em Vue.js para uma POC Gerencial.
 
+O back-end e as intruções de uso estão no repositório "POC Relatório"
 ## Project setup
 ```
 npm install
